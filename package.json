@@ -15,16 +15,16 @@
     "market-research",
     "automation"
   ],
-  "author": "Your Name",
+  "author": "Clawdio",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/competitor-change-monitor.git"
+    "url": "git+https://github.com/clawdio-afk/competitor-change-monitor.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/competitor-change-monitor/issues"
+    "url": "https://github.com/clawdio-afk/competitor-change-monitor/issues"
   },
-  "homepage": "https://github.com/yourusername/competitor-change-monitor#readme",
+  "homepage": "https://github.com/clawdio-afk/competitor-change-monitor#readme",
   "keywords_clawhub": [
     "sales",
     "competitive-intelligence",
@@ -35,7 +35,7 @@
   "clawhub": {
     "category": "sales",
     "tags": ["competitive-intelligence", "monitoring", "automation"],
-    "premium_link": "https://gumroad.com/yourusername/l/competitor-monitor",
+    "premium_link": "https://gumroad.com/clawdio/l/competitor-monitor-premium",
     "demo_video": "https://youtu.be/demo-video-id"
   }
 }
